@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tappeti-verona.github.io/tappeti-persiani-verona/sitemap.xml
