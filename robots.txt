@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://tappeti-verona.github.io/tappeti-persiani-verona/sitemap.xml
+Allow: /
+Sitemap: https://persianhandicrafts.it/sitemap.xml
